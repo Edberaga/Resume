@@ -1,0 +1,22 @@
+#root {
+  height: 100vh;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+button {
+  padding: 10px 25px;
+  background-color: #232323;
+  color: #efe;
+  border-radius: 5px;
+}
+
+body {
+  margin: 0;
+}
